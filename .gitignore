@@ -106,3 +106,4 @@ CMakeUserPresets.json
 # Logs and temp
 *.log
 *.tmp
+/Parduotuve/Main.cpp
